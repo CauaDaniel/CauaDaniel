@@ -29,5 +29,4 @@ Jogo 2D desenvolvido como TCC com foco em narrativa, gameplay e mecânicas relac
 
 ## 📫 Contato
 
-- LinkedIn: coloque aqui
-- Email: cauadaniel2212@gmail.com
+- LinkedIn: www.linkedin.com/in/caua-daniel
