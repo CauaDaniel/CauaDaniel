@@ -14,6 +14,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp)
 
 ---
 
